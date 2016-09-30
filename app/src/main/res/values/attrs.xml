@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingView">
+        <attr name="menu_right_padding" format="dimension"/><!--菜单与右边的padding值-->
+    </declare-styleable>
+</resources>
